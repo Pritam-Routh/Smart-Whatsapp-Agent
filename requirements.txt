@@ -1,0 +1,4 @@
+google-genai
+angchain
+langchain[google-genai]"
+langchain_google_genai
