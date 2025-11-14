@@ -1,0 +1,35 @@
+{
+    "warehouses": {
+      "mumbai": {
+        "bosch power drill 500w": 548,
+        "philips led panel light 12w": 210,
+        "stanley steel hammer": 80,
+        "logitech wireless mouse m331": 25
+      },
+      "hyderabad": {
+        "bosch power drill 500w": 120,
+        "philips led panel light 12w": 400,
+        "stanley steel hammer": 30,
+        "logitech wireless mouse m331": 0
+      },
+      "delhi": {
+        "bosch power drill 500w": 60,
+        "philips led panel light 12w": 361,
+        "stanley steel hammer": 150,
+        "logitech wireless mouse m331": 5
+      },
+      "chennai": {
+        "philips led panel light 12w": 126
+      },
+      "kolkata": {
+        "logitech wireless mouse m331": 2
+      }
+    },
+    "canonical_products": [
+      "bosch power drill 500w",
+      "philips led panel light 12w",
+      "stanley steel hammer",
+      "logitech wireless mouse m331"
+    ]
+  }
+  

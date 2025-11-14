@@ -1,0 +1,9 @@
+[
+    {
+        "sender": "customer",
+        "text": "Stock confirmation needed for philips led panel light 12w in chennai",
+        "intent": "Stock_query",
+        "item": "philips led panel light 12w",
+        "reply": "Hello! Regarding your query for the Philips LED panel light 12W in Chennai, I can confirm that it is currently in stock. Please let me know if you would like to proceed with your order or have any other questions. Philips Led Panel Light 12W available in Chennai warehouse with 126 units."
+    }
+]
